@@ -1,16 +1,16 @@
 # 👋 Olá! Sou o Alberto Luiz
 
-**Front-End Developer** • React Ecosystem • Automação Industrial • Dashboards Interativos
-📍 *São Gonçalo - RJ, Brasil*
+**Front-End Developer** • React & VTEX IO • Automação Industrial • Dashboards Interativos
+📍 *Itaboraí - RJ, Brasil*
 
 ---
 
 ### 🚀 Sobre mim
-Sou um desenvolvedor focado em **trazer a eficiência da indústria para a web**. 
+Sou um desenvolvedor Front-End focado em **trazer a eficiência da indústria para a web**.
 
-Minha trajetória não é linear: venho do chão de fábrica (Metalúrgica/Naval) e do Marketing, e hoje uno essa visão de negócio com código para criar soluções reais. Atualmente, curso **Técnico em Automação Industrial**, o que me permite entender a lógica de processos complexos e traduzi-los em interfaces limpas e funcionais.
+Atuo profissionalmente com desenvolvimento e manutenção de aplicações web e e-commerce (ecossistema **VTEX IO**), integrações via API e automação de processos internos. Minha trajetória não é linear: venho do chão de fábrica (Metalúrgica/Naval) e do Marketing, e hoje uno essa visão de negócio com código para criar soluções reais. Tenho formação técnica em **Automação Industrial**, o que me permite entender a lógica de processos complexos e traduzi-los em interfaces limpas e funcionais.
 
-Meu foco é o desenvolvimento de **Aplicações Web Modernas (SPA)**, Dashboards de Monitoramento e interfaces que facilitam a tomada de decisão.
+Meu foco é o desenvolvimento de **Aplicações Web Modernas (SPA)**, Dashboards de Monitoramento e ferramentas internas que facilitam a tomada de decisão.
 
 ---
 
@@ -26,16 +26,23 @@ Meu foco é o desenvolvimento de **Aplicações Web Modernas (SPA)**, Dashboards
 - **State Management:** Zustand / TanStack Query
 - **Data Viz:** ECharts / Chart.js (Criação de Dashboards Industriais)
 - **Validation:** Zod (Schema Validation)
-- **Backend/Tools:** Node.js, Playwright (Automação de relatórios), Git/GitHub
+- **Parsing:** PapaParse (CSV)
+- **Backend/Tools:** Node.js, Electron, Playwright (Automação de relatórios), Git/GitHub
 
 ---
 
 ### 🏆 Projetos em Destaque
 
-#### 🏭 [Fênix II - Dashboard de Soldagem Industrial](https://github.com/alberto2santos/fenix-dashboard)
-*Aplicação de monitoramento em tempo real para gestão de soldas e produtividade.*
-- **Tech:** React 19, Vite, TypeScript, Zod, ECharts, Playwright.
-- **Destaque:** Sistema robusto de importação de CSV com validação de dados, cálculo automático de KPIs e servidor dedicado para exportação de relatórios em PDF/PNG.
+#### 🏭 [Fênix II — Dashboard de Monitoramento de Soldagem](https://github.com/alberto2santos/fenix-dashboard)
+*Aplicação de monitoramento em tempo real para gestão de soldas e produtividade industrial.*
+- **Tech:** React 19, Vite 6, TypeScript 5, TanStack Query, ECharts, Zod, Playwright.
+- **Destaque:** Importação de CSV com validação de schema, KPIs automáticos, gráficos interativos e exportação de relatórios em PDF/PNG via servidor dedicado (Playwright/Chromium headless).
+- 🔗 **[Ver demo ao vivo](https://fenix-dashboard.vercel.app/)**
+
+#### 📦 [VTEX Update Tracking — Dashboard Desktop](https://github.com/alberto2santos/update-tracking-batch)
+*Aplicação desktop para atualização automatizada de tracking de pedidos na VTEX.*
+- **Tech:** Electron, React 18, Vite, Node.js, Axios (retry automático).
+- **Destaque:** Processamento em lote com controle de concorrência, modo dry-run, histórico de execuções e builds para Windows/macOS/Linux.
 
 #### ⚡ [Simulador de Painel Elétrico (HMI)](https://github.com/alberto2santos/simulador-painel-eletrico)
 *Interface Homem-Máquina simulando acionamento de motores.*
@@ -57,7 +64,7 @@ Meu foco é o desenvolvimento de **Aplicações Web Modernas (SPA)**, Dashboards
 
 - **LinkedIn:** [linkedin.com/in/alberto-luiz](https://www.linkedin.com/in/alberto-luiz/)
 - **Email:** alberto.dos.santos93@gmail.com
-- **Portfólio:** *Em construção*
+- **Demo em produção:** [fenix-dashboard.vercel.app](https://fenix-dashboard.vercel.app/)
 
 ---
-*“Codando soluções que conectam o chão de fábrica à gestão estratégica.”*
+*"Codando soluções que conectam o chão de fábrica à gestão estratégica."*
