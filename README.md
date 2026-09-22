@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Front-End%20Developer;React%20%2B%20TypeScript%20%2B%20VTEX%20IO;Dashboards%20que%20viram%20decis%C3%A3o;Automa%C3%A7%C3%A3o%20Industrial%20na%20pr%C3%A1tica)](https://git.io/typing-svg)
 
-📍 São Gonçalo - RJ, Brasil
+📍 Itaboraí - RJ, Brasil
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alberto-luiz/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alberto.dos.santos93@gmail.com)
