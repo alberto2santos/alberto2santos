@@ -1,85 +1,114 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F4761,100:58A6FF&height=200&section=header&text=Alberto%20Luiz&fontSize=55&fontColor=ffffff&desc=Front-End%20Developer%20%7C%20React%20%26%20VTEX%20IO&descSize=18&descAlignY=55&animation=fadeIn)
+# Alberto Luiz
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Front-End%20Developer;React%20%2B%20TypeScript%20%2B%20VTEX%20IO;Dashboards%20que%20viram%20decis%C3%A3o;Automa%C3%A7%C3%A3o%20Industrial%20na%20pr%C3%A1tica)](https://git.io/typing-svg)
+### Desenvolvedor Front-End · React · TypeScript · VTEX IO
+
+**Venho do chão de fábrica. Hoje construo as interfaces que a operação e a gestão usam para decidir.**
 
 📍 Itaboraí - RJ, Brasil
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alberto-luiz/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alberto.dos.santos93@gmail.com)
-[![Demo](https://img.shields.io/badge/Demo_ao_vivo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://fenix-dashboard.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-alberto--luiz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alberto-luiz/)
+[![Email](https://img.shields.io/badge/Email-Fale_comigo-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alberto.dos.santos93@gmail.com)
+[![Portfólio](https://img.shields.io/badge/Portfólio-Ver_site-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://portifolio-alberto-delta.vercel.app/)
 
 </div>
 
-## 🚀 Sobre mim
+---
 
-Sou um desenvolvedor Front-End focado em **trazer a eficiência da indústria para a web**.
+## 👋 Sobre mim
 
-Atuo profissionalmente com desenvolvimento e manutenção de aplicações web e e-commerce (ecossistema **VTEX IO**), integrações via API e automação de processos internos. Minha trajetória não é linear: venho do chão de fábrica (Metalúrgica/Naval) e do Marketing, e hoje uno essa visão de negócio com código para criar soluções reais. Tenho formação técnica em **Automação Industrial**, o que me permite entender a lógica de processos complexos e traduzi-los em interfaces limpas e funcionais.
+Sou desenvolvedor Front-End com um diferencial pouco comum: **entendo o processo por trás do dado**.
+Passei pela Metalúrgica/Naval e pelo Marketing, me formei técnico em **Automação Industrial** e hoje
+desenvolvo e mantenho aplicações web e e-commerce no ecossistema **VTEX IO**, com integrações via API
+e automação de processos internos.
 
-Meu foco é o desenvolvimento de **Aplicações Web Modernas (SPA)**, Dashboards de Monitoramento e ferramentas internas que facilitam a tomada de decisão.
+Na prática, isso significa que eu não só desenho a tela: eu entendo a regra de negócio, a rotina de quem
+opera e o que o gestor precisa enxergar, e transformo isso em interface clara e funcional.
 
-<br>
+> 🟢 Aberto a oportunidades como Desenvolvedor Front-End. Veja mais no [meu portfólio](https://portifolio-alberto-delta.vercel.app/).
 
-## 🛠️ Tech Stack
+## 🎯 O que eu entrego
 
-<div align="center">
+- **Dashboards e interfaces de dados:** importação de arquivos, validação, KPIs automáticos, gráficos interativos e relatórios exportáveis.
+- **Automação de rotinas:** ferramentas que processam tarefas em lote, com controle de concorrência e modo de simulação (dry-run) antes de executar de verdade.
+- **E-commerce com VTEX IO:** desenvolvimento, manutenção e integrações via API.
+- **Regras de negócio em código:** lógica industrial (partida de motores, proteções, sequência de contatores) modelada em estado e coberta por testes.
 
-![Skills](https://skillicons.dev/icons?i=react,vite,ts,js,tailwind,nodejs,vitest,git,github)
+---
 
-</div>
+## 🏆 Projetos em destaque
 
-<div align="center">
+### 🏭 Fênix II — Dashboard de Monitoramento de Soldagem
+[Repositório](https://github.com/alberto2santos/fenix-dashboard) · [**Demo ao vivo**](https://fenix-dashboard.vercel.app/)
 
-| Ecossistema & Dados | Automação & Relatórios | Qualidade | E-commerce |
-|:---:|:---:|:---:|:---:|
-| Zustand · TanStack Query · ECharts · Chart.js · Zod · PapaParse | Electron · Playwright · Node.js scripts | Vitest · TypeScript | VTEX IO · Integrações via API |
+Monitoramento de soldas e produtividade por área, a partir de dados importados em CSV.
 
-</div>
+- Importação de CSV com **validação de dados (Zod)** e leitura via PapaParse
+- **KPIs calculados automaticamente** e gráficos interativos com ECharts
+- **Exportação de relatórios em PDF e PNG** por um servidor dedicado que usa Playwright
 
-<br>
+`React` `TypeScript` `ECharts` `Zod` `PapaParse` `Playwright`
 
-## 🏆 Projetos em Destaque
+### 📦 VTEX Update Tracking — Dashboard Desktop
+[Repositório](https://github.com/alberto2santos/update-tracking-batch)
 
-<div align="center">
+App desktop que automatiza a atualização de tracking de pedidos na VTEX.
 
-<a href="https://github.com/alberto2santos/fenix-dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alberto2santos&repo=fenix-dashboard&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" width="47%" /></a>
-<a href="https://github.com/alberto2santos/update-tracking-batch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alberto2santos&repo=update-tracking-batch&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" width="47%" /></a>
-<br>
-<a href="https://github.com/alberto2santos/simulador-painel-eletrico"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alberto2santos&repo=simulador-painel-eletrico&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" width="47%" /></a>
+- **Processamento em lote com controle de concorrência**
+- **Modo dry-run** para conferir o resultado antes de aplicar
+- **Histórico de execuções** e builds para Windows, macOS e Linux
 
-</div>
+`Electron` `React` `TypeScript` `API VTEX`
 
-#### 🏭 Fênix II — Dashboard de Monitoramento de Soldagem
-Monitoramento em tempo real de soldas e produtividade por área. Importação de CSV com validação (Zod), KPIs automáticos, gráficos interativos (ECharts) e exportação de relatórios em PDF/PNG via servidor dedicado (Playwright).
-🔗 **[Demo ao vivo](https://fenix-dashboard.vercel.app/)**
+### ⚡ Simulador de Painel de Comandos Elétricos (HMI)
+[Repositório](https://github.com/alberto2santos/simulador-painel-eletrico) · [**Demo ao vivo**](https://simulador-painel-eletrico.vercel.app/)
 
-#### 📦 VTEX Update Tracking — Dashboard Desktop
-App desktop (Electron + React) para atualização automatizada de tracking de pedidos na VTEX. Processamento em lote com controle de concorrência, modo dry-run, histórico de execuções e builds para Windows/macOS/Linux.
+Simulador educacional de partida e proteção de motores trifásicos WEG W22 (5,5 · 11 · 22 kW). Aqui a formação em Automação Industrial vira código.
 
-#### ⚡ Simulador de Painel de Comandos Elétricos (HMI)
-Interface Homem-Máquina educacional que simula a partida e a proteção de motores trifásicos WEG W22 (5,5, 11 e 22 kW). Cobre partida direta, estrela-triângulo e inversor de frequência (VFD), com diagrama de força dinâmico, gráfico de corrente, proteções de sobrecarga e curto-circuito, E-STOP, telemetria JSON e exportação de diagnósticos em CSV. Construído com **React, TypeScript, Zustand e Vite**, com testes unitários das curvas de partida e das proteções em **Vitest**.
+- **Três modos de partida:** direta, estrela-triângulo e inversor de frequência (VFD)
+- **Diagrama de força dinâmico** (K1, K2, K3) e gráfico de corrente em tempo real
+- **Proteções:** sobrecarga, curto-circuito, E-STOP e reset de falha
+- **Estado e regras centralizados em Zustand**, com **testes unitários (Vitest)** das curvas de partida e dos limites de proteção
+- Telemetria JSON e exportação de diagnósticos em CSV
 
-<br>
+`React` `TypeScript` `Zustand` `Vite` `Vitest` `Chart.js`
 
-## 📊 GitHub Stats
+> Os parâmetros dos motores são estimativas didáticas, não servem para dimensionamento real.
 
-<div align="center">
+---
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=alberto2santos&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alberto2santos&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9" />
+## 🛠️ Tech stack
 
-<img src="https://streak-stats.demolab.com/?user=alberto2santos&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=c9d1d9&sideNums=c9d1d9&dates=8b949e&stroke=30363d" />
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-</div>
+| Área | Ferramentas |
+|------|-------------|
+| **Front-end** | React · TypeScript · Vite · Tailwind CSS |
+| **Estado e dados** | Zustand · TanStack Query · Zod · PapaParse |
+| **Gráficos** | ECharts · Chart.js |
+| **Automação e relatórios** | Electron · Playwright · scripts Node.js |
+| **Qualidade** | Vitest · TypeScript |
+| **E-commerce** | VTEX IO · integrações via API |
 
-<br>
+---
+
+## 📫 Vamos conversar?
+
+Se você busca alguém que **entende de processo, escreve interface limpa e gosta de resolver problema real**, vai ser um prazer conversar.
+
+[Portfólio](https://portifolio-alberto-delta.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/alberto-luiz/) · [alberto.dos.santos93@gmail.com](mailto:alberto.dos.santos93@gmail.com)
 
 <div align="center">
 
 *"Codando soluções que conectam o chão de fábrica à gestão estratégica."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=alberto2santos&color=58A6FF&style=flat-square&label=Visualiza%C3%A7%C3%B5es)
 
 </div>
