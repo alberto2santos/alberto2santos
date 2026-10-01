@@ -26,15 +26,15 @@ Meu foco é o desenvolvimento de **Aplicações Web Modernas (SPA)**, Dashboards
 
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=react,vite,ts,js,tailwind,nodejs,git,github)
+![Skills](https://skillicons.dev/icons?i=react,vite,ts,js,tailwind,nodejs,vitest,git,github)
 
 </div>
 
 <div align="center">
 
-| Ecossistema & Dados | Automação & Relatórios | E-commerce |
-|:---:|:---:|:---:|
-| Zustand · TanStack Query · ECharts · Zod · PapaParse | Electron · Playwright · Node.js scripts | VTEX IO · Integrações via API |
+| Ecossistema & Dados | Automação & Relatórios | Qualidade | E-commerce |
+|:---:|:---:|:---:|:---:|
+| Zustand · TanStack Query · ECharts · Chart.js · Zod · PapaParse | Electron · Playwright · Node.js scripts | Vitest · TypeScript | VTEX IO · Integrações via API |
 
 </div>
 
@@ -59,7 +59,7 @@ Monitoramento em tempo real de soldas e produtividade por área. Importação de
 App desktop (Electron + React) para atualização automatizada de tracking de pedidos na VTEX. Processamento em lote com controle de concorrência, modo dry-run, histórico de execuções e builds para Windows/macOS/Linux.
 
 #### ⚡ Simulador de Painel de Comandos Elétricos (HMI)
-Interface Homem-Máquina simulando o acionamento de motores elétricos (partida direta e estrela-triângulo), com lógica de automação em JavaScript puro.
+Interface Homem-Máquina educacional que simula a partida e a proteção de motores trifásicos WEG W22 (5,5, 11 e 22 kW). Cobre partida direta, estrela-triângulo e inversor de frequência (VFD), com diagrama de força dinâmico, gráfico de corrente, proteções de sobrecarga e curto-circuito, E-STOP, telemetria JSON e exportação de diagnósticos em CSV. Construído com **React, TypeScript, Zustand e Vite**, com testes unitários das curvas de partida e das proteções em **Vitest**.
 
 <br>
 
